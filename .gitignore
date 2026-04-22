@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+server/node_modules
 /.pnp
 .pnp.js
 
@@ -13,6 +14,8 @@ node_modules/
 # Env
 .env
 .env*.local
+server/.env
+server/.env.example
 
 # Debug
 npm-debug.log*
