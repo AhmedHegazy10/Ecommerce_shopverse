@@ -15,7 +15,6 @@ server/node_modules
 .env
 .env*.local
 server/.env
-server/.env.example
 
 # Debug
 npm-debug.log*
